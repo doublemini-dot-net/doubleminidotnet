@@ -1,21 +1,20 @@
 * Training
   - [Basik Skills](Training/Basicskills.md)
   - [Twisting](Training/Twisting.md)
+  
 * Trampoline
-
-  - [Aktuelle Session](CAD1/CAD1_Session08.md)
-  - [Kursübersicht](CAD1/Kursuebersicht.md)
-  - [Ergebnisse](CAD1/Ergebnisse.md)
+  - [Scoring](Trampoline/Scoring.md)
+  - [Difficulty](Trampoline/Difficulty.md)
+  - [Execution and Deductions](Trampoline/Execution.md)
+  - [Routines](Trampoline/Routines.md)
 
 * Double Mini Trampoline
-
-  - [Aktuelle Session](CAD2/CAD2_Session07.md)
-  - [Kursübersicht](CAD2/Kursuebersicht.md)
-  - [Ergebnisse](CAD2/Ergebnisse.md)
-
-
+  - [Scoring](Doublemini/Scoring.md)
+  - [Difficulty](Doublemini/Difficulty.md)
+  - [Execution and Deductions](Doublemini/Execution.md)
+  - [Routines / Passes](Doublemini/Routines.md)
+  - [Mounts](Doublemini/Mounts.md)
+  - [Dismounts](Doublemini/Dismounts.md)
   ----------------------------------------
-- Archiv
 
-  - [CAD1 WiSe 20/21](Archiv/CAD1_WiSe20-21.md)
-  - [CAD2 WiSe 20/21](Archiv/CAD2_WiSe20-21.md)
+- [About](About.md)
