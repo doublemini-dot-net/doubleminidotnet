@@ -10,7 +10,7 @@ Front drop
 ___
 
 ## Straight Jump
-<img style="float: right;" src="/assets/Images/straight jump TRA 01 -01.jpg">
+<img style="float: right;" src="../assets/Images/straight jump TRA 01 -01.jpg" width="200">
 
 The straight jump is the most basic skill in trampoline gymnastics and the first skill any gymnast will learn.
 
@@ -37,8 +37,9 @@ Requirements:
 Trampoline Gymnastics basic skills straight jump 
 Straight jump progression by Usagymuniversity on youtube
 
-
 ## Tuck Jump
+
+<img style="float: right;" src="/assets/Images/Basic skills artboards 01 -02.jpg" width="200">
 
 The tuck jump establishes the body position that is required for many skills: the tuck position. The tuck jump also introduces the gymnast to the so called 'kickout', the opening motion that is performed to straighten the body after a position.
 
@@ -56,8 +57,9 @@ Requirements:
 Trampoline Gymnastics basic skills tuck jump tuck position
 Tuck jump demostration by Airborne Trampoline Club on youtube
 
-
 ## Straddle Pike Jump
+
+<img style="float: right;" src="/assets/Images/Basic skills artboards 01 -03.jpg" width="200">
 
 The straddle pike jump is also known just as the straddle jump. 
 
@@ -77,8 +79,9 @@ Straddle pike jump demostration by Airborne Trampoline Club
 
 Straddle pike jump tutorial by Aerodynamic Trampoline Club
 
-
 ## Pike Jump
+
+<img style="float: right;" src="/assets/Images/Pike Jump doublemini01-04.png" width="200">
 
  Requirements:
 -Knees straight
@@ -97,6 +100,8 @@ Pike jump demostration by Airborne Trampoline Club on youtube
 
 
 ## Seat drop
+
+<img style="float: right;" src="/assets/Images/Trampoline drops 01 -05.jpg" width="200">
 
  Requirements:
 -Knees straight
@@ -117,6 +122,8 @@ Seat drop progression by Usagymuniversity on Youtube
 
 
 ## Swivel hips
+
+<img style="float: right;" src="/assets/Images/straight jump TRA 01 -01.jpg" width="200">
 The swivel hips is one of the first combination of skills that a gymnast will learn. It's a seat drop, then a half twist into another seat drop without an intermediate jump to the feet. 
 
 This skill also introduces the gymnast to the so cat twist, a form of twisting that is used in advanced skills like the piked barani.
@@ -147,6 +154,7 @@ Swivel hips tutorial by Carl Newberry on youtube:
 
 ## Back drop
  
+<img style="float: right;" src="/assets/Images/Trampoline drops 01 -06.jpg" width="200">
 
 The Back drop is the first backward rotation element the gymnast will learn.
 
@@ -174,6 +182,9 @@ Back drops by Usagymuniversity on Youtube
 
 
 ## Front drop
+
+<img style="float: right;" src="/assets/Images/Trampoline drops 01 -07.jpg" width="200">
+
 The drop to the stomach introduces the gymnast to forward rotation and momentum. 
 
 Requirements:
