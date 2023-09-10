@@ -1,6 +1,6 @@
 # Twisting
 
-<img style="float: right;" src="../assets/Images/Twisting-introgif-005.gif" width="350">
+<img style="float: right; clear: right;" src="../assets/Images/Twisting-introgif-005.gif" width="350">
 
 Twisting is an important skill in trampoline gymnastics, but learning how to twist is not always easy for gymnasts. Momentum, twisting directions, correct arm movement and body mechanics increase the complexity of every twisting skill. It is very important that a gymnast learns the correct techniques from the beginning as bad habits form quickly and hinder progression into advanced skills.
 
@@ -30,7 +30,7 @@ Confused? check out David Morris' video on twisting where he explains these thre
 
 A back full (backflip with one twist) use tilt twisting to initiate rotation along the vertical axis.
 
-<img style="float: right;" src="../assets/Images\Back Full double mini trampoline dismount 01.jpg" width="350">
+<img style="float: right; clear: right;" src="../assets/Images\Back Full double mini trampoline dismount 01.jpg" width="350">
 
 Every twist uses one or a combination of these twisting initiators.  
 
@@ -38,14 +38,14 @@ Ideally, you would only use tilt twisting in trampoline gymnastics, but many gym
 
 ## Arm and body position
 
-<img style="float: right;" src="../assets/Images/twisting-positions-gif-003.gif" width="350">
+<img style="float: right; clear: right;" src="../assets/Images/twisting-positions-gif-003.gif" width="350">
 
 Twists are mostly performed in a **straight position** with the arms down to the side. gymnasts often hold their **arms on their chest** during elements with many twists as it can increase the speed of the twist.  
 
 Twists can also be done in the so-called **'puck'** position, a **modified tuck** position which makes the somersault rotation easier but results in a slower twisting rotation. The puck position counts as a tuck position in the difficulty score.
 
 ## Stopping the twist
-<img style="float: right;" src="../assets/Images/Twisting Arms deductions01-02-02.jpg" width="350">
+<img style="float: right; clear: right;" src="../assets/Images/Twisting Arms deductions01-02-02.jpg" width="350">
 In order to stop the twisting rotation the gymnast can **spread their arms apart**. For baranis, single somersaults with a half twist and half outs the arms should not be opened more than 45° (angle between the torso and the arms) otherwise a 0.1 deduction will be made.
 
 
@@ -55,7 +55,7 @@ To learn more about the execution score and deductions click here
 ___
 The twist in every jump should be **completed before** the gymnast completes 3/4 of the last somersault rotation. Otherwise a deduction of 0.1 will be made.
 
-<img style="float: right;" src="../assets/Images/Twisting finish deductions02-01.jpg" width="350">
+<img style="float: right; clear: right;" src="../assets/Images/Twisting finish deductions02-01.jpg" width="350">
 
 
 To learn more about the execution score and deductions click here.
