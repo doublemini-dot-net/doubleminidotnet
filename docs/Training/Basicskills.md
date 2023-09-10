@@ -10,7 +10,7 @@ Front drop
 ___
 
 ## Straight Jump
-<img style="float: right;" src="../assets/Images/straight jump TRA 01 - 01.jpg" width="350">
+<img style="float: right;" src="../assets/Images/straight jump TRA 01 -01.jpg" width="350">
 
 The straight jump is the most basic skill in trampoline gymnastics and the first skill any gymnast will learn.
 
@@ -29,7 +29,7 @@ Requirements:
 
 ## Tuck Jump
 
-<img style="float: right;" src="./assets/Images/Basic skills artboards 01 - 02.jpg" width="350">
+<img style="float: right;" src="./assets/Images/Basic skills artboards 01 -02.jpg" width="350">
 
 The tuck jump establishes the body position that is required for many skills: the tuck position. The tuck jump also introduces the gymnast to the so called 'kickout', the opening motion that is performed to straighten the body after a position.
 
@@ -46,7 +46,7 @@ Requirements:
 
 ## Straddle Pike Jump
 
-<img style="float: right;" src="/assets/Images/Basic skills artboards 01 - 03.jpg" width="350">
+<img style="float: right;" src="/assets/Images/Basic skills artboards 01 -03.jpg" width="350">
 
 The **straddle pike jump** is also known just as the **straddle jump**.  
 It involves executing a jump while separating the legs into a straddle position and reaching the hands towards the feet or ankles. The move integrates both aerial body orientation and limb positioning. When performing the straddle the feet are dorsiflexed, and the arms and hands are reaching towards the feet or ankles. The head is aligned with the spine, and the gaze is typically forward or slightly upward. 
@@ -61,7 +61,7 @@ Requirements:
 
 ## Pike Jump
 
-<img style="float: right;" src="assets/Images/Pike Jump doublemini01- 04.png" width="350">
+<img style="float: right;" src="assets/Images/Pike Jump doublemini01-04.png" width="350">
 
  Requirements:
 
@@ -75,7 +75,7 @@ Requirements:
 
 ## Seat drop
 
-<img style="float: right;" src="/assets/Images/Trampoline drops 01 - 05.jpg" width="350">
+<img style="float: right;" src="/assets/Images/Trampoline drops 01 -05.jpg" width="350">
 
  Requirements:
 
@@ -112,7 +112,7 @@ Progression:
 
 ## Back drop
 
-<img style="float: right;" src="/assets/Images/Trampoline drops 01 - 06.jpg" width="350">
+<img style="float: right;" src="/assets/Images/Trampoline drops 01 -06.jpg" width="350">
 
 The **Back drop**, also known as **back landing** is the first backward rotation element the gymnast will learn.
 
@@ -133,7 +133,7 @@ In the beginning the back drop will be performed from the feet and onto the feet
 
 ## Front drop
 
-<img style="float: right;" src="/assets/Images/Trampoline drops 01 - 07.jpg" width="350">
+<img style="float: right;" src="/assets/Images/Trampoline drops 01 -07.jpg" width="350">
 
 The drop to the stomach introduces the gymnast to forward rotation and momentum.
 
