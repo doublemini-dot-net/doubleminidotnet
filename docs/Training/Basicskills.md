@@ -10,6 +10,7 @@ Front drop
 ___
 
 ## Straight Jump
+<img style="float: right;" src="G:\My Drive\Gdrive Projects\doubleminidotnet_markdown\docs\assets\Images\straight jump TRA 01 -01.jpg">
 
 The straight jump is the most basic skill in trampoline gymnastics and the first skill any gymnast will learn.
 
