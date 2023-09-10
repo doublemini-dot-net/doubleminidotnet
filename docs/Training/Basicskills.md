@@ -29,7 +29,7 @@ Requirements:
 
 ## Tuck Jump
 
-<img style="float: right;" src="/assets/Images/Basic skills artboards 01 - 02.jpg" width="350">
+<img style="float: right;" src="./assets/Images/Basic skills artboards 01 - 02.jpg" width="350">
 
 The tuck jump establishes the body position that is required for many skills: the tuck position. The tuck jump also introduces the gymnast to the so called 'kickout', the opening motion that is performed to straighten the body after a position.
 
@@ -61,7 +61,7 @@ Requirements:
 
 ## Pike Jump
 
-<img style="float: right;" src="/assets/Images/Pike Jump doublemini01- 04.png" width="350">
+<img style="float: right;" src="assets/Images/Pike Jump doublemini01- 04.png" width="350">
 
  Requirements:
 
